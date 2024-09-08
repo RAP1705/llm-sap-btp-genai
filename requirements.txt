@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+python-dotenv
+fastapi
+langserve
+sse_starlette
+streamlit
+generative-ai-hub-sdk
+langchain-google-vertexai
+langchain-aws
